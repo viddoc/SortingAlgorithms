@@ -1,7 +1,7 @@
-#Tommy Hudson 
-#Sorting Algorithms
+# Tommy Hudson 
+# Sorting Algorithms
 
-##This is a program I made to explore different sorting algorithms to become more familiar with them.
+## This is a program I made to explore different sorting algorithms to become more familiar with them.
 
 Currently it is only set up for unsigned integers but I may change that in the future.
 It will give the number of comparisons and swaps for most algorithms as well as the runtime in nanoseconds.
