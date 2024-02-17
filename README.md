@@ -1,4 +1,6 @@
-# Tommy Hudson 
+#### Tommy Hudson 
+
+
 # Sorting Algorithms
 
 ## This is a program I made to explore different sorting algorithms to become more familiar with them.
